@@ -6,7 +6,7 @@
 
 🌱 Practicing Full Stack Development 🤠
 
-⚡ # Fun fact: Craziness :zany_face: is Directly Propotional to Innovation :dark_sunglasses:
+##### Fun fact: Craziness :zany_face: is Directly Propotional to Innovation :dark_sunglasses:
 
 ## Technologies and Frameworks in which I have been working on:
 
