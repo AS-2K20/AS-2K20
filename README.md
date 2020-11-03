@@ -2,9 +2,9 @@
 
 ## What I have been doing lately:
 
-🔭 Working on Angular 10 and Java 8
+:computer: Working on Angular 10 and Java 8
 
-🌱 Practicing Full Stack Development 🤠
+:computer: Practicing Full Stack Development 🤠
 
 😉 Craziness :zany_face: is Directly Propotional to Innovation :dark_sunglasses:
 
