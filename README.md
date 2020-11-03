@@ -1,4 +1,6 @@
-### Hello People :handshake: 
+### Hello People :handshake: This is Amudhan - AKA AS 😇
+
+## What I have been doing lately:
 
 🔭 I’m currently working on Angular and Java 8
 
