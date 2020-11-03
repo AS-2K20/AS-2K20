@@ -1,12 +1,12 @@
 # Hello People :handshake: This is Amudhan - AKA AS 😇
 
+😉 Craziness :zany_face: is Directly Propotional to Innovation :dark_sunglasses:
+
 ## What I have been doing lately:
 
 :computer: Working on Angular 10 and Java 8
 
 :computer: Practicing Full Stack Development 🤠
-
-😉 Craziness :zany_face: is Directly Propotional to Innovation :dark_sunglasses:
 
 ## Technologies and Frameworks in which I have been working on:
 
