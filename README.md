@@ -1,5 +1,10 @@
 ### Hello People :handshake: 
 
+🔭 I’m currently working on Angular and Java 8
+
+🌱 I’m currently practicing Full Stack Development 🤠
+
+⚡ Fun fact: Craziness :zany_face: is one of the by-products of Innovation :dark_sunglasses:
 <!--
 **AS-2K20/AS-2K20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
