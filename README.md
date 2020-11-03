@@ -1,16 +1,18 @@
-# Hello People :handshake: This is Amudhan - AKA AS 😇
+# Hello People :handshake: This is Amudhan. NickName: AS 😇
 
 😉 Craziness :zany_face: is Directly Propotional to Innovation :dark_sunglasses:
 
 ## What I have been doing lately:
 
-:computer: Working on Angular 10 and Java 8
+:relaxed: Enhancing Problem Solving Skills in Java 8
 
-:computer: Practicing Full Stack Development 🤠
+🤠 Working in Angular 10
+
+:computer: Practicing Full Stack Development 
 
 ## Technologies and Frameworks in which I have been working on:
 
-<a href="https://www.google.com">Google</a>
+<i class="fab fa-angular">Angular</i>
 
 <!--
 **AS-2K20/AS-2K20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
