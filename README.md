@@ -11,7 +11,9 @@
 :computer: Practicing Full Stack Development 
 
 ## Technologies and Frameworks in which I have been working on:
-<mdb-icon fab icon="angular"></mdb-icon>
+<link href="https://fonts.googleapis.com/css2?family=Material+Icons" rel="stylesheet">
+
+<i class="fab fa-angular"></i>
 
 <!--
 **AS-2K20/AS-2K20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
