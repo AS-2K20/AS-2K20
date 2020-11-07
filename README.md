@@ -2,6 +2,9 @@
 
 😉 Craziness :zany_face: is Directly Propotional to Innovation :dark_sunglasses:
 
+## Programming Fun:
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ## What I have been doing lately:
 
 [![Repos Badge](https://badges.pufler.dev/repos/AS-2K20)](https://badges.pufler.dev)
@@ -32,3 +35,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Craziness :zany_face: is one of the by-products of Innovation :dark_sunglasses:
 -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
