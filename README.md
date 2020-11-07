@@ -4,7 +4,8 @@
 
 ## What I have been doing lately:
 
-https://badges.pufler.dev/repos/AS-2K20
+[![Repos Badge](https://badges.pufler.dev/repos/AS-2K20)](https://badges.pufler.dev)
+
 
 :relaxed: Enhancing Problem Solving Skills in Java 8
 
