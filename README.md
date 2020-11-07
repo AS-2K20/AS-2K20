@@ -16,9 +16,9 @@
 :computer: Practicing Full Stack Development 
 
 ## Technologies and Frameworks in which I have been working on:
-<link href="https://fonts.googleapis.com/css2?family=Material+Icons" rel="stylesheet">
 
-<i class="fab fa-angular"></i>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angularjs.svg" />
+
 
 <!--
 **AS-2K20/AS-2K20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
