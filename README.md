@@ -34,4 +34,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Craziness :zany_face: is one of the by-products of Innovation :dark_sunglasses:
 -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
