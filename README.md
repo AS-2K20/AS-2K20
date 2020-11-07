@@ -4,6 +4,8 @@
 
 ## What I have been doing lately:
 
+https://badges.pufler.dev/repos/AS-2K20
+
 :relaxed: Enhancing Problem Solving Skills in Java 8
 
 🤠 Working in Angular 10
