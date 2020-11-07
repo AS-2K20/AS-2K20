@@ -4,6 +4,7 @@
 
 ## Programming Fun:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ## What I have been doing lately:
 
 [![Repos Badge](https://badges.pufler.dev/repos/AS-2K20)](https://badges.pufler.dev)
