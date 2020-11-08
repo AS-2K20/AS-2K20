@@ -13,7 +13,7 @@
 
 :relaxed: Enhancing my Problem Solving Skills in Java 8
 
-🤠 Working in Angular 10
+🤠 Working in my capstone project titled 'ASM'
 
 :computer: Practicing Java Full Stack Development 
 <br/><br/>
