@@ -13,7 +13,7 @@
 
 🤠 Working in Angular 10
 
-:computer: Practicing Full Stack Development 
+:computer: Practicing Java Full Stack Development 
 
 ## Technologies and Frameworks in which I have been working on:
 
