@@ -17,7 +17,7 @@
 
 ## Technologies and Frameworks in which I have been working on:
 
-<img height="64" width="64" src="https://cdn.svgporn.com/logos/angular-icon.svg" title="Angular 10" />&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.svgporn.com/logos/html-5.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.svgporn.com/logos/css-3.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.svgporn.com/logos/javascript.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.svgporn.com/logos/java.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.svgporn.com/logos/spring.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.svgporn.com/logos/hibernate.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.svgporn.com/logos/mysql.svg" />
+<img title="Angular 10" height="64" width="64" src="https://cdn.svgporn.com/logos/angular-icon.svg" />&nbsp;&nbsp;&nbsp;<img title="HTML 5" height="64" width="64" src="https://cdn.svgporn.com/logos/html-5.svg" />&nbsp;&nbsp;&nbsp;<img title="CSS" height="64" width="64" src="https://cdn.svgporn.com/logos/css-3.svg" />&nbsp;&nbsp;&nbsp;<img title="JavaScript" height="64" width="64" src="https://cdn.svgporn.com/logos/javascript.svg" />&nbsp;&nbsp;&nbsp;<img title="Java 8" height="64" width="64" src="https://cdn.svgporn.com/logos/java.svg" />&nbsp;&nbsp;&nbsp;<img title="Spring Boot" height="64" width="64" src="https://cdn.svgporn.com/logos/spring.svg" />&nbsp;&nbsp;&nbsp;<img title="Hibernate" height="64" width="64" src="https://cdn.svgporn.com/logos/hibernate.svg" />&nbsp;&nbsp;&nbsp;<img title="MySQL" height="64" width="64" src="https://cdn.svgporn.com/logos/mysql.svg" />
 
 
 <!--
