@@ -17,7 +17,7 @@
 
 ## Technologies and Frameworks in which I have been working on:
 
-<img height="64" width="32" src="https://cdn.svgporn.com/logos/angular-icon.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="32" src="https://cdn.svgporn.com/logos/html-5.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="32" src="https://cdn.svgporn.com/logos/css-3.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="32" src="https://cdn.svgporn.com/logos/javascript.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="32" src="https://cdn.svgporn.com/logos/java.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="32" src="https://cdn.svgporn.com/logos/spring.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="32" src="https://cdn.svgporn.com/logos/hibernate.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="32" src="https://cdn.svgporn.com/logos/mysql.svg" />
+<img height="64" width="64" src="https://cdn.svgporn.com/logos/angular-icon.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.svgporn.com/logos/html-5.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.svgporn.com/logos/css-3.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.svgporn.com/logos/javascript.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.svgporn.com/logos/java.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.svgporn.com/logos/spring.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.svgporn.com/logos/hibernate.svg" />&nbsp;&nbsp;&nbsp;<img height="64" width="64" src="https://cdn.svgporn.com/logos/mysql.svg" />
 
 
 <!--
