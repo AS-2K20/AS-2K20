@@ -11,7 +11,7 @@ I have completed my (Integrated) Masters of Science in Software Systems at <a hr
 
 [![Repos Badge](https://badges.pufler.dev/repos/AS-2K20)](https://badges.pufler.dev)
 
-:relaxed: Enhancing Problem Solving Skills in Java 8
+:relaxed: Enhancing my Problem Solving Skills in Java 8
 
 🤠 Working in Angular 10
 
