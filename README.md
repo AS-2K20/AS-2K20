@@ -4,6 +4,10 @@
 
 > 😉 Craziness :zany_face: is One of the key characteristics of an Innovative and Unique Mind :dark_sunglasses:
 
+## Ping me Here 👇 
+
+<a href="https://www.linkedin.com/in/amudhan-b-712781116/" target="_blank"><img title="Angular 10" height="64" width="64" src="https://cdn.svgporn.com/logos/linkedin.svg" /></a>
+
 ## Programming Fun:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
