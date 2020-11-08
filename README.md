@@ -1,6 +1,6 @@
 # Hello People :handshake: This is Amudhan. NickName: AS 😇
 
-> 😉 Craziness :zany_face: is Directly Propotional to Innovation :dark_sunglasses:
+> __😉 Craziness :zany_face: is Directly Propotional to Innovation :dark_sunglasses:
 
 ## Programming Fun:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
