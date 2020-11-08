@@ -2,8 +2,8 @@
 
 🙋‍ I have completed my (Integrated) Masters of Science in Software Systems at <a href="https://www.psgcas.ac.in/" target="_blank">PSG CAS</a>. I am currently enhancing my technical skills in Java Full Stack Development by pursuing <a href="https://www.faceprep.in/prograd/">FACEPrep's ProGrad</a> program. <br/>
 
-> 😉 Craziness :zany_face: is One of the key characteristics of an Innovative and Unique Mind :dark_sunglasses:
-<br/>
+> 😉 Craziness :zany_face: is One of the key characteristics of an Innovative and Unique Mind :dark_sunglasses:<br/>
+
 ## Ping me Here 👇 
 
 <a href="https://www.linkedin.com/in/amudhan-b-712781116/" target="_blank"><img title="Angular 10" height="64" width="64" src="https://cdn.svgporn.com/logos/linkedin.svg" /></a>
