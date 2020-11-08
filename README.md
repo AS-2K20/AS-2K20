@@ -1,6 +1,6 @@
 # Hello People :handshake: This is Amudhan. NickName: AS 😇
 
-I have completed my direct Masters of Science in Software Systems at <a href="https://www.psgcas.ac.in/" target="_blank">PSG CAS</a>. I am currently enhancing my skills in Java Full Stack Development by pursuing <a href="https://www.faceprep.in/prograd/">FACEPrep's ProGrad</a> program. 
+I have completed my (Integrated) Masters of Science in Software Systems at <a href="https://www.psgcas.ac.in/" target="_blank">PSG CAS</a>. I am currently enhancing my skills in Java Full Stack Development by pursuing <a href="https://www.faceprep.in/prograd/">FACEPrep's ProGrad</a> program. 
 
 > 😉 Craziness :zany_face: is One of the key characteristics of an Innovative and Unique Mind :dark_sunglasses:
 
