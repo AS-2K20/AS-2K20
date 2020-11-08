@@ -17,8 +17,7 @@
 
 ## Technologies and Frameworks in which I have been working on:
 
-<img height="32" width="32" src="https://cdn.svgporn.com/logos/javascript.svg" />  <img height="32" width="32" src="https://cdn.svgporn.com/logos/angular-icon.svg" /> 
-<img height="32" width="32" src="https://cdn.svgporn.com/logos/java.svg" />
+<img height="32" width="32" src="https://cdn.svgporn.com/logos/javascript.svg" />&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://cdn.svgporn.com/logos/angular-icon.svg" /> <img height="32" width="32" src="https://cdn.svgporn.com/logos/java.svg" />
 
 
 <!--
