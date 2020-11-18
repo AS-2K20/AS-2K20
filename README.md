@@ -13,7 +13,7 @@
 
 :relaxed: Enhancing my Problem Solving Skills in Java 8
 
-🤠 Working in development of chat bot titled 'Pizel'
+🤠 Working in development of a chat bot titled 'Pizel'
 
 :computer: Practicing Java Full Stack Development 
 
