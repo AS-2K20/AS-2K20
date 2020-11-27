@@ -11,8 +11,6 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/AS-2K20)](https://badges.pufler.dev)
 
-:relaxed: Enhancing my Problem Solving Skills in Java 8
-
 🤠 Working in development of a chat bot titled 'Pizel'
 
 :computer: Practicing Java Full Stack Development 
