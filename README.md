@@ -11,7 +11,7 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/AS-2K20)](https://badges.pufler.dev)
 
-🤠 Working in development of a chat bot titled 'Pizel'
+🤠 Studying Chat Bots
 
 :computer: Practicing Java Full Stack Development 
 
