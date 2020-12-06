@@ -11,7 +11,7 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/AS-2K20)](https://badges.pufler.dev)
 
-🤠 Working on a Pizza Delivery Chat Bot Project named Pizel
+🤠 Working on a Pizza Delivery Chat Bot Project named 'Pizel'
 
 :computer: Practicing Java Full Stack Development 
 
