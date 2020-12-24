@@ -13,7 +13,7 @@
 
 🤠 Working on a Pizza Delivery Chat Bot Project named 'Pizel'
 
-:computer: Practicing Java Full Stack Development 
+:computer: Practicing Full Stack Development 
 
 ✍ Getting Started with PHP 7.3
 <br/><br/>
