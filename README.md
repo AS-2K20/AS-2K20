@@ -11,11 +11,10 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/AS-2K20)](https://badges.pufler.dev)
 
-🤠 Working on the Version 2 of the Pizza Delivery Chat Bot Project named 'Pizel'
+🤠 Just Getting Started in MongoDB and Node JS
 
 :computer: Practicing Full Stack Development 
 
-✍ Messing around with PHP 7.3
 <br/><br/>
 ## Technologies and Frameworks in which I have been working on:
 <br/>
