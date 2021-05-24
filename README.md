@@ -22,7 +22,7 @@
 
 ## Ping me Here 👇 
 
-<a href="https://www.linkedin.com/in/amudhan-b-712781116/" target="_blank"><img title="AS - LinkedIn Profile" height="64" width="128" src="https://cdn.svgporn.com/logos/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/amudhan-s-712781116/" target="_blank"><img title="AS - LinkedIn Profile" height="64" width="128" src="https://cdn.svgporn.com/logos/linkedin.svg" /></a>
 
 
 <!--
